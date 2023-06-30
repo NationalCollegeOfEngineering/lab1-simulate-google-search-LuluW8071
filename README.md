@@ -11,4 +11,4 @@ Create a search HTML page by linking google search using inline, external and in
 ### Assignment2
 1. List down HTML tags 
 2. New tags of HTML5
-3. Goto->register.com.np and register ur domain #### (optional)
+3. Goto->register.com.np and register ur domain(optional)
