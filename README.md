@@ -9,6 +9,6 @@ Assignment of Web Technology Class
 Create a search HTML page by linking google search using inline, external and internal(tags)
 
 ### Assignment2
-. List down HTML tags 
-. New tags of HTML5
-. Goto->register.com.np and register ur domain
+1. List down HTML tags 
+2. New tags of HTML5
+3. Goto->register.com.np and register ur domain
